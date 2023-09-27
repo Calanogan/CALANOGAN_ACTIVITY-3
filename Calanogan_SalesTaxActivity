@@ -1,0 +1,5 @@
+Amount = float(input("Enter purchase amount:"))
+Tax = Amount*0.06
+
+
+print("Sales tax is ", round(Tax, 2))
